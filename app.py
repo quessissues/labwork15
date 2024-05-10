@@ -3,12 +3,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
-image1 = Image.open("1233.jpeg")
-image2 = Image.open("183603645.jpg")
-image3 = Image.open("Tajikistan_Flag_589396_1920x1200.jpg")
-image4 = Image.open("1840.jpg")
-image = Image.open("67090.jpg")
-image5 = Image.open("maxresdefault.jpg")
+image1 = Image.open("flag.jpg")
+image2 = Image.open("uzbekistan-flag.jpg")
+image3 = Image.open("321.jpg")
+image4 = Image.open("kyrgyzstan-flag.jpg")
+image = Image.open("123.jpg")
+
 
 st.image(image)
 
